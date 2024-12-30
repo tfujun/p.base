@@ -9,4 +9,7 @@ base python setup with docker containerization following https://youtu.be/6OxqiE
 ```
 docker compose up --build -d
 ```
-5. When done run `docker compose down`
+5. When done run 
+```
+docker compose down
+```
